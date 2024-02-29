@@ -1,8 +1,8 @@
 import Card from '../../components/Card'
 import data from './data'
-import './services.css'
+import './certificates.css'
 
-const Services = () => {
+const certificates = () => {
   return (
     <section id="services">
       <h2>My Certifications</h2>
@@ -24,4 +24,4 @@ const Services = () => {
   )
 }
 
-export default Services
+export default certificates

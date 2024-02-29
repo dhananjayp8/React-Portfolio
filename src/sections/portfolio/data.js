@@ -1,12 +1,13 @@
-import Image1 from '../../assets/project1.jpg'
-import Image2 from '../../assets/project2.jpg'
-import Image3 from '../../assets/project3.jpg'
-import Image4 from '../../assets/project4.jpg'
-import Image5 from '../../assets/project5.jpg'
-import Image6 from '../../assets/project6.jpg'
-import Image7 from '../../assets/project7.jpg'
-import Image8 from '../../assets/project8.jpg'
-import Image9 from '../../assets/project9.jpg'
+//import Image1 from '../../assets/project1.jpg'
+import Image1 from '../../assets/spoify-landing.png'
+import Image2 from '../../assets/zomato.png'
+import Image3 from '../../assets/netflix-landing.png'
+import Image4 from '../../assets/login.png'
+import Image5 from '../../assets/facebook.png'
+import Image6 from '../../assets/taskmate.png'
+import Image7 from '../../assets/Form-valid.png'
+import Image8 from '../../assets/tictac.png'
+import Image9 from '../../assets/2048.png'
 
 const data = [
     {
