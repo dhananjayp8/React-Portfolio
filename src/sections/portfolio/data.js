@@ -11,81 +11,81 @@ import Image9 from '../../assets/project9.jpg'
 const data = [
     {
         id: 1,
-        category: 'uiux',
+        category: 'Html/Css',
         image: Image1,
-        title: "Project Title One (UIUX)",
+        title: "Project Title One (Html/Css)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 2,
-        category: 'frontend',
+        category: 'Html/Css',
         image: Image2,
-        title: "Project Title Two (Frontend)",
+        title: "Project Title Two (Html/Css)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 3,
-        category: 'frontend',
+        category: 'React',
         image: Image3,
-        title: "Project Title Three (Frontend)",
+        title: "Project Title Three (React)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 4,
-        category: 'uiux',
+        category: 'Html/Css',
         image: Image4,
-        title: "Project Title Four (UIUX)",
+        title: "Project Title Four (Html/Css)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 5,
-        category: 'uiux',
+        category: 'Html/Css',
         image: Image5,
-        title: "Project Title Five (UIUX)",
+        title: "Project Title Five (Html/Css)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 6,
-        category: 'frontend',
+        category: 'React',
         image: Image6,
-        title: "Project Title Six (Frontend)",
+        title: "Project Title Six (React)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 7,
-        category: 'frontend',
+        category: 'Javascript',
         image: Image7,
-        title: "Project Title Seven (Frontend)",
+        title: "Project Title Seven (Javascript)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 8,
-        category: 'backend',
+        category: 'Javascript',
         image: Image8,
-        title: "Project Title Eight (Backend)",
+        title: "Project Title Eight (Javascript)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
     {
         id: 9,
-        category: 'frontend',
+        category: 'Javascript',
         image: Image9,
-        title: "Project Title Nine (Frontend)",
+        title: "Project Title Nine (Javascript)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
