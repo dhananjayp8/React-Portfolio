@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8137d8de.css",
+    "main.js": "/static/js/main.ffd8f000.js",
+    "static/media/zomato.png": "/static/media/zomato.766691803b89e0d7eae3.png",
+    "static/media/login.png": "/static/media/login.bcfd41bcc81c95ae9ce7.png",
+    "static/media/Dhananjay.pdf": "/static/media/Dhananjay.b0be2ed93e519a24e20c.pdf",
+    "static/media/blog-writing.png": "/static/media/blog-writing.f929a6090af88f0a3676.png",
+    "static/media/netflix-landing.png": "/static/media/netflix-landing.4d49dd2bc06d0e2bbfb0.png",
+    "static/media/spoify-landing.png": "/static/media/spoify-landing.a2e166639b607f6761b8.png",
+    "static/media/tictac.png": "/static/media/tictac.47a38e95e21fb26c0d18.png",
+    "static/media/facebook.png": "/static/media/facebook.3f8f106dd200f2cc21ec.png",
+    "static/media/Form-valid.png": "/static/media/Form-valid.ecc6b3bbb08dd7e839a3.png",
+    "static/media/2048.png": "/static/media/2048.e97601eb31a68e42e0b9.png",
+    "static/media/taskmate.png": "/static/media/taskmate.992239719b67d4791e3c.png",
+    "static/media/bot.png": "/static/media/bot.5f61abcf8c26fbdf52b1.png",
+    "index.html": "/index.html",
+    "main.8137d8de.css.map": "/static/css/main.8137d8de.css.map",
+    "main.ffd8f000.js.map": "/static/js/main.ffd8f000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8137d8de.css",
+    "static/js/main.ffd8f000.js"
+  ]
+}
