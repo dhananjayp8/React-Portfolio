@@ -9,6 +9,8 @@ import { FaNodeJs } from "react-icons/fa";
 import { DiMongodb } from "react-icons/di";
 import { DiMysql } from "react-icons/di";
 import { SiPostman } from "react-icons/si";
+import { IoLogoFirebase } from "react-icons/io5";
+
 
 
 const data = [
@@ -43,6 +45,9 @@ const data = [
     },
     {
         id: 11, icon: <SiPostman/>, title: 'Postman', desc: 'Completed Certification in Frontend Development by Coding Ninjas.'
+    },
+    {
+        id: 12, icon: <IoLogoFirebase/>, title: 'Postman', desc: 'Completed Certification in Frontend Development by Coding Ninjas.'
     },
     
 ]
