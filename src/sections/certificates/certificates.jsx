@@ -5,17 +5,12 @@ import './certificates.css'
 const certificates = () => {
   return (
     <section id="services">
-      <h2>My Certifications</h2>
-      <p>Check my Certifications below</p>
+      <h2>My Skills</h2>
       <div className="container services__container" data-aos="fade-up">
         {
           data.map(item => (
-            <Card key={item.id} className="service light">
-              <div className="service__icon">{item.icon}</div>
-              <div className="service__details">
-                <h4>{item.title}</h4>
-                  <p>{item.desc}</p>
-              </div>
+            <Card key={item.id} className="about__card">
+              <span className='about__card-icon'>{item.icon}</span>                    
             </Card>
           ))
         }
